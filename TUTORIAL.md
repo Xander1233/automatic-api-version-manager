@@ -21,7 +21,7 @@ This tutorial gives you a step-by-step guide how to set this project up and main
 - Open the ``api.ts`` file from the current version
 - Create a new section by writing ``private <section name>: <section class>;`` between the start of the class and the constructor
 - Inside the constructor write: ``this.<section name> = new <section class>(version, app);``
-- Add new endpoints to the section by following this tutorial: https://github.com/Xander1233/automatic-api-version-manager/blob/master
+- Add new endpoints to the section by following this tutorial: https://github.com/Xander1233/automatic-api-version-manager/blob/master/TUTORIAL.md#add-a-new-endpoint-to-an-existing-version
 
 ## Add a new version
 
